@@ -32,7 +32,6 @@ directory_mode=recursive
 ignore_patterns=^~,^bak-,%.bak$
 
 --]]
---显示列表，自动播放
 
 MAXENTRIES = 5000
 MAXDIRSTACK = 20
